@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Zenject, C# Design Patterns**
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing)
+- 👨‍💻 All of my projects are available at [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing)
 
 - 📫 How to reach me **llarean@yandex.ru**
 
