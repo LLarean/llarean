@@ -8,11 +8,11 @@
 - 👨‍💻 All of my projects are available at [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing)
 
 - 📫 How to reach me **llarean@yandex.ru**
+
+<h3 align="left">Connect with me:</h3>
 <a href="https://t.me/llarean" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
