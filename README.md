@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Stanislav</h1>
-<code>Unity Developer / Technical UI Artist</code>
+<code>Unity Developer / Technical UI Artist (Unity)</code>
 
 - 🔭 I’m currently working on [TD](https://github.com/LLarean/tower-defense), [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger), [TabataTimer](https://github.com/LLarean/tabata-timer), Phrenophagy
 
@@ -12,9 +12,11 @@
 - 📫 How to reach me **llarean@ya.ru**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://discord.gg/250411256639389708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="250411256639389708" height="25" width="40" /></a>
-<a href="https://t.me/llarean" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</a>
+<p align="left">
+  <a href="https://t.me/llarean" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/></a>
+  <a href="https://discord.com/users/250411256639389708" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
+</p>
+
 <p align="left">
 </p>
 
@@ -28,9 +30,9 @@
 <h3 align="left">Languages and Tools (Secondary):</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 </p>
