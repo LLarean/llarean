@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Stanislav</h1>
-<h3 align="center">Unity Developer</h3>
+<h1>Hi 👋, I'm Stanislav</h1>
+<code>Unity Developer / Technical UI Artist</code>
 
 - 🔭 I’m currently working on [TD](https://github.com/LLarean/tower-defense), [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger), [TabataTimer](https://github.com/LLarean/tabata-timer), Phrenophagy
 
 - 🌱 I’m currently learning **Zenject, Design Patterns**
 
-- 👨‍💻 All of my projects are available at [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing)
+- 👨‍💻 All my projects are available in the portfolio [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing)
 
 - 💬 Ask me about **optimizing a user interface driven by Unity UI**
 
@@ -35,4 +35,4 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=llarean&show_icons=true&locale=en&layout=compact" alt="llarean" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=llarean&show_icons=true&locale=en&layout=compact&theme=ocean_dark" alt="llarean"/></p>
