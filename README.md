@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Stanislav</h1>
 <code>Unity Developer / Technical UI Artist (Unity)</code>
 
-- 🔭 I’m currently working on Phrenophagy, [TD](https://github.com/LLarean/tower-defense), [CustomLogger](https://github.com/LLarean/custom-logger)
+- 🔭 I’m currently working on Phrenophagy, [Asteroids](https://github.com/LLarean/asteroids), [TD](https://github.com/LLarean/tower-defense)
+
+- 🔭 Episodic development [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger)
 
 - 🌱 I’m currently learning **Zenject, Design Patterns**
 
