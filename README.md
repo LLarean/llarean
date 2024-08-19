@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Stanislav</h1>
 <code>Unity Developer / Technical UI Artist (Unity)</code>
 
-- 🔭 I’m currently working on Phrenophagy, [FileLossFinder](https://github.com/LLarean/file-loss-finder), [Asteroids](https://github.com/LLarean/asteroids), [TD](https://github.com/LLarean/tower-defense)
+- ⚒️ I’m currently working on Phrenophagy, [FileLossFinder](https://github.com/LLarean/file-loss-finder), [Asteroids](https://github.com/LLarean/asteroids), [TD](https://github.com/LLarean/tower-defense)
 
-- 🔭 Episodic development [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger)
+- 📦 My packages for working in Unity [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger), [Screenshoter](https://github.com/LLarean/screenshoter)
 
-- 🌱 I’m currently learning **Zenject, Design Patterns**
+- 🔭 I’m currently learning **Zenject, Design Patterns**
 
 - 👨‍💻 All my projects are available in the portfolio [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing)
 
