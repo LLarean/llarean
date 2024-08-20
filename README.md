@@ -3,7 +3,9 @@
 
 - ⚒️ I’m currently working on Phrenophagy, [FileLossFinder](https://github.com/LLarean/file-loss-finder), [Asteroids](https://github.com/LLarean/asteroids), [TD](https://github.com/LLarean/tower-defense)
 
-- 📦 My packages for working in Unity [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger), [Screenshoter](https://github.com/LLarean/screenshoter)
+- 📦 My packages for working in Unity: [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger), [Screenshoter](https://github.com/LLarean/screenshoter)
+
+- 📝 My gists for working in Unity: [Observable](https://gist.github.com/LLarean/617d3f381f87d981766f14456f130df0), [LocalizationInitializer](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb), [LocalizedTMP](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb), [ReferencesFinder](https://gist.github.com/LLarean/a90401328c7b68226f39dce617ed75a3)
 
 - 🔭 I’m currently learning **Zenject, Design Patterns**
 
