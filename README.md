@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Stanislav</h1>
 <code>Unity Developer / Technical UI Artist (Unity)</code>
 
-- 📦 My packages for working in Unity: [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger), [Screenshoter](https://github.com/LLarean/screenshoter), [img2etc2](https://github.com/LLarean/img2etc2)
+- 📦 My packages for working in Unity: [EventBus](https://github.com/LLarean/EventBus), [img2etc2](https://github.com/LLarean/img2etc2), [CustomLogger](https://github.com/LLarean/custom-logger), [Screenshoter](https://github.com/LLarean/screenshoter)
   
 - 📝 My gists for working in Unity: [Observable](https://gist.github.com/LLarean/617d3f381f87d981766f14456f130df0), [LocalizationInitializer](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb), [LocalizedTMP](https://gist.github.com/LLarean/0470e67c14834c3f48aa83d42d1ea411), [ReferencesFinder](https://gist.github.com/LLarean/a90401328c7b68226f39dce617ed75a3), [AddressablesLoader](https://gist.github.com/LLarean/bcb2bde1c636359a1c8c51bd4bbf4b33)
 
