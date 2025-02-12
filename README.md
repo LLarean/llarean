@@ -7,7 +7,7 @@
 
 - ⚒️ I’m currently working on Phrenophagy, [FileLossFinder](https://github.com/LLarean/file-loss-finder), [TD](https://github.com/LLarean/tower-defense), [Asteroids](https://github.com/LLarean/asteroids)
 
-- 🔭 I’m currently learning **UML diagrams, Design Patterns**
+- 🔭 I’m currently learning **[Elegant Objects](https://www.elegantobjects.org/), Design Patterns**
 
 - 👨‍💻 All my projects are available in the portfolio [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing)
 
