@@ -18,12 +18,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://t.me/llarean" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/></a>
-  <a href="https://discord.com/users/250411256639389708" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
-</p>
-
 <h3 align="left">Languages and Tools</h3>
 <h4 align="left">Main:</h4>
 <p align="left"> 
@@ -45,4 +39,9 @@
 <h3 align="left">Codewars</h3>
 <img src="https://www.codewars.com/users/LLarean/badges/micro"/>
 
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://t.me/llarean" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/></a>
+  <a href="https://discord.com/users/250411256639389708" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
+</p>
 
