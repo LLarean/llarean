@@ -3,13 +3,13 @@
 
 - 📦 My packages for working in Unity: [UnityIMG2ETC2](https://github.com/LLarean/img2etc2), [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger), [Screenshoter](https://github.com/LLarean/screenshoter)
   
-- 📝 My gists for working in Unity: [Observable](https://gist.github.com/LLarean/617d3f381f87d981766f14456f130df0), [LocalizationInitializer](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb), [LocalizedTMP](https://gist.github.com/LLarean/0470e67c14834c3f48aa83d42d1ea411), [ReferencesFinder](https://gist.github.com/LLarean/a90401328c7b68226f39dce617ed75a3), [AddressablesLoader](https://gist.github.com/LLarean/bcb2bde1c636359a1c8c51bd4bbf4b33)
+- 📝 My gists for working in Unity: [Observable](https://gist.github.com/LLarean/617d3f381f87d981766f14456f130df0), [LocalizationInitializer](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb), [LocalizedTMP](https://gist.github.com/LLarean/0470e67c14834c3f48aa83d42d1ea411), [ReferencesFinder](https://gist.github.com/LLarean/a90401328c7b68226f39dce617ed75a3), [AddressablesLoader](https://gist.github.com/LLarean/bcb2bde1c636359a1c8c51bd4bbf4b33), [SemanticVersion](https://gist.github.com/LLarean/38b5e663c1f7b3065d5e886914717bba)
 
-- ⚒️ I’m currently working on ... (some of the packages that will be published are open source)
+- ⚒️ I’m currently working on [Unity Tiny Builder](https://github.com/LLarean/unity-tiny-builder), [Unity IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo) 
 
 - 🔭 I’m currently learning **[Elegant Objects](https://www.elegantobjects.org/), Design Patterns**
 
-- 👨‍💻 All my projects are available in the portfolio [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing)
+- 👨‍💻 All my projects are available in the portfolio [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing) (RU)
 
 - 💬 Ask me about **optimizing a user interface driven by Unity UI**
 
