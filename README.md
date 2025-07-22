@@ -1,47 +1,57 @@
-<h1>Hi 👋, I'm Stanislav</h1>
-<code>Unity Developer / Technical UI Artist (Unity)</code>
+### 👋 Hi, I'm Stanislav — **Unity Technical UI/UX Developer** 
+`Unity UI` • `Performance` • `Tools` • `Clean Code` • `UX Research`
 
-- 📦 My packages for working in Unity: [UnityIMG2ETC2](https://github.com/LLarean/img2etc2), [EventBus](https://github.com/LLarean/EventBus), [CustomLogger](https://github.com/LLarean/custom-logger), [PlayerPrefsDatabase](https://github.com/LLarean/unity-playerprefs-database), [Screenshoter](https://github.com/LLarean/screenshoter) 
-  
-- 📝 My gists for working in Unity: [Observable](https://gist.github.com/LLarean/617d3f381f87d981766f14456f130df0), [LocalizationInitializer](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb), [LocalizedTMP](https://gist.github.com/LLarean/0470e67c14834c3f48aa83d42d1ea411), [ReferencesFinder](https://gist.github.com/LLarean/a90401328c7b68226f39dce617ed75a3), [AddressablesLoader](https://gist.github.com/LLarean/bcb2bde1c636359a1c8c51bd4bbf4b33), [SemanticVersion](https://gist.github.com/LLarean/38b5e663c1f7b3065d5e886914717bba)
+> "UI is the party. Code is the bouncer. Nobody notices him until something breaks."  
 
-- ⚒️ I’m currently working on [Unity Tiny Builder](https://github.com/LLarean/unity-tiny-builder), [Unity IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo) 
+---
+### 🎯 **Technical Expertise**
 
-- 🔭 I’m currently learning **[Elegant Objects](https://www.elegantobjects.org/), Design Patterns**
+#### **Unity Development**
+  - UI Architecture & Performance  
+  - Scalable UGUI solutions using MVP/MVC patterns  
+  - Optimization of rendering, batching and UI logic  
+  - Custom editor tools for workflow automation  
 
-- 👨‍💻 All my projects are available in the portfolio [Google Doc](https://docs.google.com/document/d/1pV2Q1CSyFahF9vk5LyWV170xebb6ZHZVMJvsSU0c_gc/edit?usp=sharing) (RU)
+#### **UX Design & Implementation**  
+  - Player experience analysis and pain points resolution  
+  - Wireframing and prototyping game interfaces  
+  - Localization and accessibility systems  
 
-- 💬 Ask me about **optimizing a user interface driven by Unity UI**
+#### **Software Engineering**  
+  - Clean C# code with SOLID principles  
+  - Design patterns for game systems  
+  - Open-source packages development (see below)
 
-- 📫 How to reach me **llarean@ya.ru**
+---
+### 🚀 My Open-Source Contributions
 
-<p align="left">
-</p>
+####  **Published Unity Packages** 
+- [![UnityIMG2ETC2](https://img.shields.io/badge/IMG2ETC2-000000?logo=unity)](https://github.com/LLarean/img2etc2) – **Image resizing tool** for proper ETC2 compression (![Stars](https://img.shields.io/github/stars/LLarean/img2etc2?style=flat))
+- [![EventBus](https://img.shields.io/badge/EventBus-239120?logo=c-sharp)](https://github.com/LLarean/EventBus) – **Zero-dependency messaging** system (integrated in 5+ projects)
+- [![CustomLogget](https://img.shields.io/badge/CustomLogger-000000?logo=unity)](https://github.com/LLarean/custom-logger) – **Colorized debug logs** with stack traces and channels (used in 5+ commercial projects)
+- [![PlayerPrefsDatabase](https://img.shields.io/badge/PlayerPrefsDatabase-000000?logo=unity)](https://github.com/LLarean/unity-playerprefs-database) – **Simple save system** for Unity using PlayerPrefs and JSON
+- [![TinyBuilder](https://img.shields.io/badge/TinyBuilder-000000?logo=unity)](https://github.com/LLarean/unity-tiny-builder)  – **Lightweight build pipeline** for small projects
 
-<h3 align="left">Languages and Tools</h3>
-<h4 align="left">Main:</h4>
-<p align="left"> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
-<h4 align="left">so-so:</h4>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-</p>
+####  **Code Snippets & Gists**
+- [Observable](https://gist.github.com/LLarean/617d3f381f87d981766f14456f130df0) – **Reactive properties** for UI bindings (adopted by 3 devs in my network)
+- [LocalizedTMP](https://gist.github.com/LLarean/0470e67c14834c3f48aa83d42d1ea411) – **Dynamic font switching** for TextMeshPro (used by colleagues)
+- [LocalizationInitializer](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb) – **Runtime localization** setup (used by colleagues)
+- [SemanticVersion](https://gist.github.com/LLarean/38b5e663c1f7b3065d5e886914717bba) – **SemVer parser** with validation
+- [AddressablesLoader](https://gist.github.com/LLarean/bcb2bde1c636359a1c8c51bd4bbf4b33) – **Async asset loading** wrapper
+- [ReferencesFinder](https://gist.github.com/LLarean/a90401328c7b68226f39dce617ed75a3) – **Editor tool** to track asset dependencies
 
-<h3 align="left">Codewars</h3>
-<img src="https://www.codewars.com/users/LLarean/badges/micro"/>
+---
+### **📌 Currently**  
+- Working on: **[IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo)** (Elegant Objects approach)  
+- Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
+- Writing: 
+	- **"Window VS Screen (UX)"** *(Q3 2025)*  
+	- **"Compression for UI"** *(Technical deep dive)*
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://t.me/llarean" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/></a>
-  <a href="https://discord.com/users/250411256639389708" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
-</p>
+### 📫 **Let's Connect**  
+- **Email**: [llarean@ya.ru](mailto:llarean@ya.ru) 
+- **LinkedIn**: [Stanislav Kozlov](https://www.linkedin.com/in/stanislav-kozlov-503b23347/)
+- **Telegram**: [@LLarean](https://t.me/llarean) 
+- **Discord**: [LLarean](https://discord.com/users/250411256639389708) 
+- **Codewars**: Sharpening problem-solving skills [![Codewars](https://www.codewars.com/users/LLarean/badges/micro)](https://www.codewars.com/users/LLarean)  
 
