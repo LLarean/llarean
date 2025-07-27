@@ -44,13 +44,14 @@
 ### 📝 **Technical Guides & Research**  
 #### UI/UX Design  
 - [RU] [Modal Windows vs Full Screens: When to Use Each (UX Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ux-activity-7354406881626398720-_73W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
+- [RU] [Budget vs Premium: Data-Backed Tactics for In-Game Item Placement](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-activity-7355116409481297920-AiCl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
 
 ---
 ### **📌 Currently**  
 - Working on: **[IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo)** (Elegant Objects approach)  
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
 - Writing: 
-	- **"Data-driven monetization optimization: how to increase revenue from the game store"** *(Q3 2025)*  
+	- **"Monetization Best Practices"** *(Q3 2025)*  
 	- **"Compression for UI"** *(Technical deep dive)*
 
 ### 📫 **Let's Connect**  
