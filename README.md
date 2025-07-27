@@ -41,7 +41,7 @@
 - [ReferencesFinder](https://gist.github.com/LLarean/a90401328c7b68226f39dce617ed75a3) – **Editor tool** to track asset dependencies
 
 ---
-### 📝 **Technical Guides & Research**  
+### 📝 **My Publications & Guides**  
 #### UI/UX Design  
 - [RU] [Modal Windows vs Full Screens: When to Use Each (UX Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ux-activity-7354406881626398720-_73W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
 
