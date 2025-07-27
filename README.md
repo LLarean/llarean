@@ -46,7 +46,7 @@
 - [RU] [Modal Windows vs Full Screens: When to Use Each (UX Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ux-activity-7354406881626398720-_73W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
 
 #### Monetization  
-- [RU] [Budget vs Premium: Data-Backed Tactics for In-Game Item Placement](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-activity-7355116409481297920-AiCl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
+- [RU] [Cheap vs Premium Items: When to Use Each (Monetization Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-activity-7355116409481297920-AiCl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
 
 ---
 ### **📌 Currently**  
