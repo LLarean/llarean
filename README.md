@@ -46,15 +46,17 @@
 - [RU] [Modal Windows vs Full Screens: When to Use Each (UX Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ux-activity-7354406881626398720-_73W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
 
 #### Monetization  
-- [RU] [Cheap vs Premium Items: When to Use Each (Monetization Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-activity-7355116409481297920-AiCl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
+- [RU] [Cheap vs Premium Items: When to Use Each (Monetization Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-activity-7355116409481297920-AiCl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)
+
+#### Optimization
+- [RU] [UI Image Optimization in Unity: Formats, Sizes and Compression](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ui-optimization-unity3d-activity-7356325117045403648-O_QR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)
 
 ---
 ### **📌 Currently**  
 - Working on: **[IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo)** (Elegant Objects approach)  
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
 - Writing: 
-	- **"Monetization Best Practices"** *(Q3 2025)*  
-	- **"Compression for UI"** *(Technical deep dive)*
+	- **"Current Monetization Practices in Mobile Games(A Data-Driven Guide with Validation)"** *(Q3 2025)*
 
 ### 📫 **Let's Connect**  
 - **Email**: [llarean@ya.ru](mailto:llarean@ya.ru) 
