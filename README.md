@@ -28,7 +28,7 @@
 ####  **Published Unity Packages** 
 - [![UnityIMG2ETC2](https://img.shields.io/badge/IMG2ETC2-000000?logo=unity)](https://github.com/LLarean/img2etc2) – **Image resizing tool** for proper ETC2 compression (![Stars](https://img.shields.io/github/stars/LLarean/img2etc2?style=flat))
 - [![SignalSystem(EventBus)](https://img.shields.io/badge/SignalSystem(EventBus)-239120?logo=c-sharp)](https://github.com/LLarean/signal-system) – **Ready-to-use** event management system for Unity and .NET (integrated in 5+ projects)
-- [![SmartLogger](https://img.shields.io/badge/UnitySmartLogger-000000?logo=unity)](https://github.com/LLarean/unity-smart-logger) – **Enhanced Unity Logger** is an advanced logging utility (used in 5+ commercial projects)
+- [![SmartLogger](https://img.shields.io/badge/SmartLogger-000000?logo=unity)](https://github.com/LLarean/unity-smart-logger) – **Enhanced Unity Logger** is an advanced logging utility (used in 5+ commercial projects)
 - [![PlayerPrefsDatabase](https://img.shields.io/badge/PlayerPrefsDatabase-000000?logo=unity)](https://github.com/LLarean/unity-playerprefs-database) – **Simple save system** for Unity using PlayerPrefs and JSON
 - [![TinyBuilder](https://img.shields.io/badge/TinyBuilder-000000?logo=unity)](https://github.com/LLarean/unity-tiny-builder)  – **Lightweight build pipeline** for small projects
 
