@@ -42,14 +42,10 @@
 
 ---
 ### 📝 **My Publications & Guides**  
-#### UI/UX Design  
 - [RU] [Modal Windows vs Full Screens: When to Use Each (UX Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ux-activity-7354406881626398720-_73W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
-
-#### Monetization  
 - [RU] [Cheap vs Premium Items: When to Use Each (Monetization Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-activity-7355116409481297920-AiCl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)
-
-#### Optimization
 - [RU] [UI Image Optimization in Unity: Formats, Sizes and Compression](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ui-optimization-unity3d-activity-7356325117045403648-O_QR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)
+- [RU] [Balanced Revenue Design: Avoiding Monetization Mistakes](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-gamedev-mobilegames-activity-7358112379575910401-2UHd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)
 
 ---
 ### **📌 Currently**  
