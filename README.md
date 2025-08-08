@@ -34,6 +34,7 @@
 
 ####  **Code Snippets & Gists**
 - [Observable](https://gist.github.com/LLarean/617d3f381f87d981766f14456f130df0) – **Reactive properties** for UI bindings (adopted by 3 devs in my network)
+- [GameObjectExtensions](https://gist.github.com/LLarean/6f9c13504b76942b107da5e90251cf36) – **Extension methods** for Unity GameObjects to simplify component retrieval and manipulation
 - [LocalizedTMP](https://gist.github.com/LLarean/0470e67c14834c3f48aa83d42d1ea411) – **Dynamic font switching** for TextMeshPro (used by colleagues)
 - [LocalizationInitializer](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb) – **Runtime localization** setup (used by colleagues)
 - [SemanticVersion](https://gist.github.com/LLarean/38b5e663c1f7b3065d5e886914717bba) – **SemVer parser** with validation
