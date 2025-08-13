@@ -52,7 +52,6 @@
 ### **📌 Currently**  
 - Working on: 
 	- **[IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo)** (Elegant Objects approach)
- 	- **[Enhanced Addressables Loader](https://github.com/LLarean/enhanced-addressables-loader)** Enhanced Addressables Loader is an advanced Unity package	
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
 - Writing: 
 	- **"Current Monetization Practices in Mobile Games(A Data-Driven Guide with Validation)"** *(Q3 2025)*
