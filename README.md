@@ -51,10 +51,12 @@
 ---
 ### **📌 Currently**  
 - Working on: 
-	- **[IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo)** (Elegant Objects approach)
+	- [Screen Flow](https://github.com/LLarean/screen-flow) - **Elegant screen management** system for Unity with MVP architecture and code generation 
+	- [Audio Manager Lite](https://github.com/LLarean/audiomanager-lite) - **Lightweight audio management system** for Unity with categories, pooling, and fade effects 
+	- [IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo) (Elegant Objects approach)
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
 - Writing: 
-	- **"Current Monetization Practices in Mobile Games(A Data-Driven Guide with Validation)"** *(Q3 2025)*
+	- **"Using Unity Profiler for UI Optimization"** *(deep dive)*
 
 ### 📫 **Let's Connect**  
 - **Email**: [llarean@ya.ru](mailto:llarean@ya.ru) 
