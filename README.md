@@ -53,10 +53,10 @@
 - Working on: 
 	- [Screen Flow](https://github.com/LLarean/screen-flow) - **Elegant screen management** system for Unity with MVP architecture and code generation 
 	- [Audio Manager Lite](https://github.com/LLarean/audiomanager-lite) - **Lightweight audio management system** for Unity with categories, pooling, and fade effects 
-	- [IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo) (Elegant Objects approach)
+	- ~~[IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo) (Elegant Objects approach)~~
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
 - Writing: 
-	- **"Using Unity Profiler for UI Optimization"** *(deep dive)*
+	- **"Using Unity Profiler for UI Optimization"** *(Q4 2025)*
 
 ### 📫 **Let's Connect**  
 - **Email**: [llarean@ya.ru](mailto:llarean@ya.ru) 
