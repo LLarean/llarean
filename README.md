@@ -50,10 +50,10 @@
 
 ---
 ### **📌 Currently**  
-- Working on: 
-	- [Screen Flow](https://github.com/LLarean/screen-flow) - **Elegant screen management** system for Unity with MVP architecture and code generation 
-	- [Audio Manager Lite](https://github.com/LLarean/audiomanager-lite) - **Lightweight audio management system** for Unity with categories, pooling, and fade effects 
-	- ~~[IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo) (Elegant Objects approach)~~
+- Working on:
+	- ![Active](https://img.shields.io/badge/status-active-brightgreen) [Audio Manager Lite](https://github.com/LLarean/audiomanager-lite) - **Lightweight audio management system** for Unity  
+	- ![Paused](https://img.shields.io/badge/status-paused-yellow) [Screen Flow](https://github.com/LLarean/screen-flow) - **Elegant screen management** system for Unity  
+	- ![Paused](https://img.shields.io/badge/status-paused-yellow) [IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo) - Elegant Objects approach
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
 - Writing: 
 	- **"Using Unity Profiler for UI Optimization"** *(Q4 2025)*
