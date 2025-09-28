@@ -51,9 +51,9 @@
 ---
 ### **📌 Currently**  
 - Working on:
-	- ![Review](https://img.shields.io/badge/status-under_review-orange) [Audio Manager Lite](https://github.com/LLarean/audiomanager-lite) - **Lightweight audio management system** for Unity  
+	- ![Development](https://img.shields.io/badge/status-in_development-blue) [King's Bounty Console](https://github.com/LLarean/kings-bounty-console) - **A simple prototype of a game** inspired by the classic King's Bounty (1990)
+ 	- ![Review](https://img.shields.io/badge/status-under_review-orange) [Audio Manager Lite](https://github.com/LLarean/audiomanager-lite) - **Lightweight audio management system** for Unity  
 	- ![Paused](https://img.shields.io/badge/status-paused-yellow) [Screen Flow](https://github.com/LLarean/screen-flow) - **Elegant screen management** system for Unity  
-	- ![Paused](https://img.shields.io/badge/status-paused-yellow) [IMG2ETC2 with EO](https://github.com/LLarean/img2etc2-eo) - Elegant Objects approach
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
 - Writing: 
 	- **"Using Unity Profiler for UI Optimization"** *(Q4 2025)*
