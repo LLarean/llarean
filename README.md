@@ -51,10 +51,10 @@
 ---
 ### **📌 Currently**  
 - Working on:
-	- ![Development](https://img.shields.io/badge/status-in_development-blue) [King's Bounty Console](https://github.com/LLarean/kings-bounty-console) - **A simple prototype of a game** inspired by the classic King's Bounty (1990)
+	- ![Development](https://img.shields.io/badge/status-in_development-blue) Utilities for game development — will be published later
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
 - Writing: 
-	- **"Might and Magic VIII (UI/UX)"** *(Q4 2025)*
+	- **"Might and Magic VIII (UI/UX)"** *(Q1 2026)*
 
 ### 📫 **Let's Connect**  
 - **Email**: [llarean@ya.ru](mailto:llarean@ya.ru) 
