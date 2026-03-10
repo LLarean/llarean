@@ -50,11 +50,9 @@
 
 ---
 ### **📌 Currently**  
-- Working on:
-	- ![Development](https://img.shields.io/badge/status-in_development-blue) Utilities for game development — will be published later
+- Working on: Utilities for game development - will be published later
 - Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
-- Writing: 
-	- **"Might and Magic VIII (UI/UX)"** *(Q1 2026)*
+- Writing: **"Might and Magic VIII (UI/UX)"** *(Q1 2026)*
 
 ### 📫 **Let's Connect**  
 - **Email**: [llarean@ya.ru](mailto:llarean@ya.ru) 
