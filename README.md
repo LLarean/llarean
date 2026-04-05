@@ -1,63 +1,26 @@
-### 👋 Hi, I'm Stanislav — **Unity Technical UI/UX Developer** 
-`Unity UI` • `Performance` • `Tools` • `Clean Code` • `UX Research`
+# Stanislav Kozlov
 
-> "UI is the party. Code is the bouncer. Nobody notices him until something breaks."  
+Game developer, nine years. I specialize in UI/UX and technical interface architecture —
+mostly in Unity, but the questions I keep asking are platform-agnostic: why does this
+interface feel wrong, how does the player's eye move, what does neurophysiology tell us
+about attention and feedback.
 
----
-### 🎯 **Technical Expertise**
-
-#### **Unity Development**
-  - UI Architecture & Performance  
-  - Scalable UGUI solutions using MVP/MVC patterns  
-  - Optimization of rendering, batching and UI logic  
-  - Custom editor tools for workflow automation  
-
-#### **UX Design & Implementation**  
-  - Player experience analysis and pain points resolution  
-  - Wireframing and prototyping game interfaces  
-  - Localization and accessibility systems  
-
-#### **Software Engineering**  
-  - Clean C# code with SOLID principles  
-  - Design patterns for game systems  
-  - Open-source packages development (see below)
+Notes and tools: [llarean.github.io](https://llarean.github.io)
 
 ---
-### 🚀 My Open-Source Contributions
 
-####  **Published Unity Packages** 
-- [![UnityIMG2ETC2](https://img.shields.io/badge/IMG2ETC2-000000?logo=unity)](https://github.com/LLarean/img2etc2)(![Stars](https://img.shields.io/github/stars/LLarean/img2etc2?style=flat)) – **Image resizing tool** for proper ETC2 compression  
-- [![SignalSystem](https://img.shields.io/badge/SignalSystem-239120?logo=c-sharp)](https://github.com/LLarean/signal-system) – **Ready-to-use** event management system for Unity and .NET (integrated in 5+ projects)
-- [![SmartLogger](https://img.shields.io/badge/SmartLogger-000000?logo=unity)](https://github.com/LLarean/unity-smart-logger) – **Enhanced Unity Logger** is an advanced logging utility (used in 5+ commercial projects)
-- [![PlayerPrefsDatabase](https://img.shields.io/badge/PlayerPrefsDatabase-000000?logo=unity)](https://github.com/LLarean/unity-playerprefs-database) – **Simple save system** for Unity using PlayerPrefs and JSON
-- [![TinyBuilder](https://img.shields.io/badge/TinyBuilder-000000?logo=unity)](https://github.com/LLarean/unity-tiny-builder)  – **Lightweight build pipeline** for small projects
+**Open-source Unity packages**
 
-####  **Code Snippets & Gists**
-- [Observable](https://gist.github.com/LLarean/617d3f381f87d981766f14456f130df0) – **Reactive properties** for UI bindings (adopted by 3 devs in my network)
-- [GameObjectExtensions](https://gist.github.com/LLarean/6f9c13504b76942b107da5e90251cf36) – **Extension methods** for Unity GameObjects to simplify component retrieval and manipulation
-- [LocalizedTMP](https://gist.github.com/LLarean/0470e67c14834c3f48aa83d42d1ea411) – **Dynamic font switching** for TextMeshPro (used by colleagues)
-- [LocalizationInitializer](https://gist.github.com/LLarean/41fec4b20fcaa7a80f93444d0cc9eecb) – **Runtime localization** setup (used by colleagues)
-- [SemanticVersion](https://gist.github.com/LLarean/38b5e663c1f7b3065d5e886914717bba) – **SemVer parser** with validation
-- [AddressablesLoader](https://gist.github.com/LLarean/bcb2bde1c636359a1c8c51bd4bbf4b33) – **Async asset loading** wrapper
-- [ReferencesFinder](https://gist.github.com/LLarean/a90401328c7b68226f39dce617ed75a3) – **Editor tool** to track asset dependencies
+- [img2etc2](https://github.com/LLarean/img2etc2) — resizes textures to valid ETC2 dimensions before compression
+- [signal-system](https://github.com/LLarean/signal-system) — event bus for Unity and .NET
+- [unity-smart-logger](https://github.com/LLarean/unity-smart-logger) — enhanced logger with context and filters
+- [unity-playerprefs-database](https://github.com/LLarean/unity-playerprefs-database) — typed save system over PlayerPrefs and JSON
+- [unity-tiny-builder](https://github.com/LLarean/unity-tiny-builder) — lightweight build pipeline for small projects
 
 ---
-### 📝 **My Publications & Guides**  
-- [RU] [Modal Windows vs Full Screens: When to Use Each (UX Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ux-activity-7354406881626398720-_73W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)  
-- [RU] [Cheap vs Premium Items: When to Use Each (Monetization Short Guide)](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-activity-7355116409481297920-AiCl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)
-- [RU] [UI Image Optimization in Unity: Formats, Sizes and Compression](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_ui-optimization-unity3d-activity-7356325117045403648-O_QR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)
-- [RU] [Balanced Revenue Design: Avoiding Monetization Mistakes](https://www.linkedin.com/posts/stanislav-kozlov-503b23347_monetization-gamedev-mobilegames-activity-7358112379575910401-2UHd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbXbRMBX7E3LEtpne7lmQKZvnwBdzR1uy4)
+
+Currently: reading *Elegant Objects*, writing about Might & Magic VIII UI/UX.
 
 ---
-### **📌 Currently**  
-- Working on: Utilities for game development - will be published later
-- Learning: **Design Patterns for UI Systems**, **[Elegant Objects principles](https://www.elegantobjects.org/)**  
-- Writing: **"Might and Magic VIII (UI/UX)"** *(Q1 2026)*
 
-### 📫 **Let's Connect**  
-- **Email**: [llarean@ya.ru](mailto:llarean@ya.ru) 
-- **LinkedIn**: [Stanislav Kozlov](https://www.linkedin.com/in/stanislav-kozlov-503b23347/)
-- **Telegram**: [@LLarean](https://t.me/llarean) 
-- **Discord**: [LLarean](https://discord.com/users/250411256639389708) 
-- **Codewars**: Sharpening problem-solving skills [![Codewars](https://www.codewars.com/users/LLarean/badges/micro)](https://www.codewars.com/users/LLarean)  
-
+llarean@ya.ru · [LinkedIn](https://www.linkedin.com/in/stanislav-kozlov-503b23347/) · [Telegram](https://t.me/llarean)
