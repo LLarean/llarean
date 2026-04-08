@@ -9,13 +9,25 @@ Notes and tools: [llarean.github.io](https://llarean.github.io)
 
 ---
 
-**Open-source Unity packages**
+**Unity packages**
 
 - [img2etc2](https://github.com/LLarean/img2etc2) — resizes textures to valid ETC2 dimensions before compression
-- [signal-system](https://github.com/LLarean/signal-system) — event bus for Unity and .NET
 - [unity-smart-logger](https://github.com/LLarean/unity-smart-logger) — enhanced logger with context and filters
 - [unity-playerprefs-database](https://github.com/LLarean/unity-playerprefs-database) — typed save system over PlayerPrefs and JSON
 - [unity-tiny-builder](https://github.com/LLarean/unity-tiny-builder) — lightweight build pipeline for small projects
+
+**C# / .NET**
+
+- [signal-system](https://github.com/LLarean/signal-system) — type-safe event bus, works in Unity and plain .NET
+
+**Localization tools**
+
+- [localization-sheets-tools](https://github.com/LLarean/localization-sheets-tools) — Google Sheets menu for JSON export/import, key lookup, missing translations, and unique character extraction
+- [localization-char-extractor](https://github.com/LLarean/localization-char-extractor) — browser-based utility for extracting unique characters from localization JSON, for font atlas generation
+
+**Other**
+
+- [llarean-gitextensions-themes](https://github.com/LLarean/llarean-gitextensions-themes) — custom dark and light themes for GitExtensions, refined for Windows 11
 
 ---
 
