@@ -31,7 +31,7 @@ Notes and tools: [llarean.github.io](https://llarean.github.io)
 
 ---
 
-Currently: reading *Elegant Objects*, writing about Might & Magic VIII UI/UX.
+Currently: reading [Elegant Objects](https://www.yegor256.com/elegant-objects.html) by [Yegor Bugayenko](https://www.yegor256.com), writing about Might & Magic VIII UI/UX.
 
 ---
 
