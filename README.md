@@ -28,6 +28,7 @@ Notes and tools: [llarean.github.io](https://llarean.github.io)
 **Other**
 
 - [llarean-gitextensions-themes](https://github.com/LLarean/llarean-gitextensions-themes) - custom dark and light themes for GitExtensions, refined for Windows 11
+- [llarean-windows-terminal-theme](https://github.com/LLarean/llarean-windows-terminal-theme) - custom color scheme for Windows Terminal
 
 ---
 
