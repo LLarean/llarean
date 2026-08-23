@@ -5,7 +5,7 @@ mostly in Unity, but the questions I keep asking are platform-agnostic: why does
 interface feel wrong, how does the player's eye move, what does neurophysiology tell us
 about attention and feedback.
 
-Notes and tools: [llarean.github.io](https://llarean.github.io)
+Notes and tools: [llarean.org](https://llarean.org)
 
 ---
 
