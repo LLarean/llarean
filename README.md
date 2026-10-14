@@ -1,9 +1,10 @@
 # Stanislav Kozlov
 
-Game developer, nine years. I specialize in UI/UX and technical interface architecture -
+Game developer since 2016. I specialize in UI/UX and technical interface architecture -
 mostly in Unity, but the questions I keep asking are platform-agnostic: why does this
 interface feel wrong, how does the player's eye move, what does neurophysiology tell us
-about attention and feedback.
+about attention and feedback. Lately I've been digging into older games and comparing
+their interfaces with modern ones.
 
 Notes and tools: [llarean.org](https://llarean.org)
 
@@ -29,10 +30,6 @@ Notes and tools: [llarean.org](https://llarean.org)
 
 - [llarean-gitextensions-themes](https://github.com/LLarean/llarean-gitextensions-themes) - custom dark and light themes for GitExtensions, refined for Windows 11
 - [llarean-windows-terminal-theme](https://github.com/LLarean/llarean-windows-terminal-theme) - custom color scheme for Windows Terminal
-
----
-
-Currently: reading [Elegant Objects](https://www.yegor256.com/elegant-objects.html) by [Yegor Bugayenko](https://www.yegor256.com), writing about Might & Magic VIII UI/UX.
 
 ---
 
