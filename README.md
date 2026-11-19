@@ -8,7 +8,8 @@ interface feel wrong, how does the player's eye move, what does neurophysiology 
 about attention and feedback. Lately I've been digging into older games and comparing
 their interfaces with modern ones.
 
-Notes and tools: [llarean.org](https://llarean.org)
+I build small tools for tedious parts of development and write about interfaces.
+[Notes on UI and tooling](https://llarean.org)
 
 ---
 
